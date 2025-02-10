@@ -29,6 +29,10 @@ body {
     float: right;
 }
 
+#header a:hover {
+    background-color: #ccc;
+}
+
 .nav li {
     display: inline-block;
     list-style: none;
