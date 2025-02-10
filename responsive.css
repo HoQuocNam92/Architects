@@ -1,5 +1,12 @@
  @media (max-width: 768px) {
 
+     .nav,
+     .text-content .text-heading {
+         display: none;
+     }
+
+
+
      .section-heading p,
      .section-heading h3,
      .about-context,
