@@ -190,6 +190,10 @@ body {
 
 
 
+#content .content-map img {
+    max-width: 100%;
+    height: auto;
+}
 
 .section-heading hr {
     opacity: 0.2;
@@ -230,4 +234,5 @@ body {
     background-color: #000;
     color: #fff;
     line-height: 80px;
+    font-size: 14px;
 }
